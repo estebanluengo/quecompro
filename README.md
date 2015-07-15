@@ -1,0 +1,1 @@
+¿Qué compro? es una aplicación desarrollada para IPhone que permite llevar un control de todas las compras y gastos que realizamos a diario. El objetivo es que de una forma sencilla el usuario pueda registrar dichas compras o gastos para después disponer de información estadística completa para responder a la pregunta, ¿en qué me gasto mi dinero?.
